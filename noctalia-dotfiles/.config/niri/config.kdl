@@ -113,6 +113,6 @@ include "supertab.kdl"
 include "windowrules.kdl"
 include "cursor.kdl"
 include "outputs.kdl"
-
+include "blur.kdl"
 include "./noctalia.kdl"
 
